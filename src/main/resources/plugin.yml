@@ -1,0 +1,7 @@
+name: ChristmasTree
+version: '${project.version}'
+main: me.frank.christmastree.Main
+api-version: 1.19
+commands:
+  christmastree:
+    description: Get a Christmas Tree!
